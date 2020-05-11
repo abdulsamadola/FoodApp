@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="header_text_1">Find your</string>
+    <string name="header_text_2">Favorite Foods</string>
+    <string name="search">Search</string>
+    <string name="burger">Burger</string>
+    <string name="pizza">Pizza</string>
+    <string name="rolls">Rolls</string>
+    <string name="soup">Soup</string>
+    <string name="beef_burger">Beef Burger</string>
+    <string name="go_back">Go Back</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="text_desc">Donec laoreet varius ipsum a fermentum. Duis maximus vulputate tellus non vestibulum. Aenean volutpat venenatis nibh, id elementum arcu. Pellentesque tincidunt porttitor imperdiet</string>
+    <string name="nutrition_quantity">Nutrition Quantity</string>
+    <string name="main_ingredients">Main ingredients</string>
+    <string name="dough">Dough</string>
+</resources>
